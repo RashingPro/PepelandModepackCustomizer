@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PepelandModepackCustomizer.iml" filepath="$PROJECT_DIR$/.idea/PepelandModepackCustomizer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pepeland_modepack_customizer.iml" filepath="$PROJECT_DIR$/.idea/pepeland_modepack_customizer.iml" />
     </modules>
   </component>
 </project>
