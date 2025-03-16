@@ -1,0 +1,11 @@
+.headerContainer {
+    height: 8vh;
+    width: 100%;
+    padding: 1vh;
+}
+
+.headerLogoImage {
+    height: 100%;
+    width: auto;
+    /*padding: 1vh;*/
+}

@@ -1,3 +1,7 @@
+import Header from "@/modules/header.module/module";
+
 export default function Page() {
-    return <>Some cool text goes here</>
+    return <>
+        <Header />
+    </>
 }
