@@ -3,10 +3,10 @@ import { Inter } from 'next/font/google';
 import "./globals.css";
 import {ReactNode} from "react";
 
-const inter = Inter({subsets: ["cyrillic"]})
+const inter = Inter({subsets: ["latin", "cyrillic"]})
 
 export const metadata: Metadata = {
-  title: "Pepeland Modepack Customizer",
+  title: "Pepeland Modpack Customizer | Только то, что нужно",
   description: "Добавить в сборку только нужные тебе компоненты еще никогда не было так просто!",
 };
 

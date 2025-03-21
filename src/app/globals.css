@@ -3,6 +3,7 @@
 :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --header-height: 5rem;
 }
 
 body {
